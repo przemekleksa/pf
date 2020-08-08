@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a19b613.chunk.css",
+    "main.js": "/static/js/main.a13a7885.chunk.js",
+    "main.js.map": "/static/js/main.a13a7885.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21e4bbbf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21e4bbbf.js.map",
+    "static/js/2.5dcfb8f1.chunk.js": "/static/js/2.5dcfb8f1.chunk.js",
+    "static/js/2.5dcfb8f1.chunk.js.map": "/static/js/2.5dcfb8f1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b9b0d18eb95d7471e893c26c82fd7246.js": "/precache-manifest.b9b0d18eb95d7471e893c26c82fd7246.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2a19b613.chunk.css.map": "/static/css/main.2a19b613.chunk.css.map",
+    "static/js/2.5dcfb8f1.chunk.js.LICENSE.txt": "/static/js/2.5dcfb8f1.chunk.js.LICENSE.txt",
+    "static/media/Przemyslaw_Leksa_Resume.pdf": "/static/media/Przemyslaw_Leksa_Resume.e054e0d8.pdf",
+    "static/media/atmSingle.jpg": "/static/media/atmSingle.fd309efe.jpg",
+    "static/media/chatSingle.jpg": "/static/media/chatSingle.b69a8040.jpg",
+    "static/media/currencySingle.jpg": "/static/media/currencySingle.95b899c7.jpg",
+    "static/media/homepage.scss": "/static/media/drip.a0322a74.jpg",
+    "static/media/keyboardSingle.jpg": "/static/media/keyboardSingle.98131c7a.jpg",
+    "static/media/neutronSingle.jpg": "/static/media/neutronSingle.30ac7139.jpg",
+    "static/media/pizzaSingle.jpg": "/static/media/pizzaSingle.1bde8561.jpg",
+    "static/media/przemek.png": "/static/media/przemek.b070d836.png",
+    "static/media/przemekleksacv.jpg": "/static/media/przemekleksacv.351233b1.jpg",
+    "static/media/restaurantSingle.jpg": "/static/media/restaurantSingle.a739b6a4.jpg",
+    "static/media/sassSingle.jpg": "/static/media/sassSingle.c8202d9d.jpg",
+    "static/media/turismSingle.jpg": "/static/media/turismSingle.fe550e04.jpg",
+    "static/media/weatherSingle.jpg": "/static/media/weatherSingle.be97ace6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21e4bbbf.js",
+    "static/js/2.5dcfb8f1.chunk.js",
+    "static/css/main.2a19b613.chunk.css",
+    "static/js/main.a13a7885.chunk.js"
+  ]
+}
